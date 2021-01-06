@@ -7,7 +7,7 @@ body {
 	margin-top: -30px;
 	border-radius: 0px !important;
 	height: 500px;
-	color: #fff;
+	color: rgb(66, 66, 66);
 	background-size: cover;
 	background: #42a5f5;
 }
@@ -30,10 +30,14 @@ hr.below {
 }
 
 #info1,
-#info3 {
+#info2 {
 	font-size: 2.4rem;
 }
 
-#info2 {
+#info3 {
 	font-size: 4.8rem;
+}
+
+h2 {
+	font-size: 6rem;
 }
